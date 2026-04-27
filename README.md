@@ -1,2 +1,62 @@
-# Portfolio_Pietra_Rocha
-Este repositório apresenta o desenvolvimento prático de trabalhos focados nas diciplinas de IA e Banco de Dados. 
+# [Pietra Rocha]
+> Estudante de [Analise e Desenvolvimento de Sistemas]
+ 
+---
+ 
+### 📫 Contato & Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pietra-rocha)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pietra.rocha444@gmail.com)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/11eEzUWQXh2MSz49XnsfFhhr1xlEOyC-x/view?usp=drive_link)
+ 
+---
+ 
+### 👨‍💻 Sobre
+Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] na [UNICID]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Desenvolvimento de Sistemas(Backend or Frontend) e Análise de Dados].
+ 
+* **Habilidades Técnicas:** [Ex: Python, JavaScript, SQL, AWS, C, C++, HTML, CSS].
+* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, pensamento crítico, gestão de projetos, raciocínio lógico e analítico.
+* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Implementação e Criação de um Prototipo Inteligente] onde desenvolvi [um mini carrinho inteligente, com implementações em nuvem (AWS, IOT-Core), codificação para ativação de sensores inteligentes em uma placa de arduino, com conexão de Wifi e Bluetooh, Dashboard interativa que enviava e recebia comandos do prototipo, um projeto focado na implementações de diferças areas, criando um prototipo inteligente a empresa Volkswagen].
+ 
+---
+ 
+### 🛠 Minhas Ferramentas Favoritas
+ 
+#### 💻 Linguagens e Tecnologias
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+ 
+#### 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+ 
+#### 🤖 Inteligência Artificial & Ciência de Dados
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![AI Studio](https://img.shields.io/badge/AI_Studio-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=icloud&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+ 
+---
+ 
+### 📂 Portfólio de Projetos
+ 
+#### 🗃️ Modelagem de Banco de Dados
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+ 
+#### 🤖 Inteligência Artificial
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+ 
+---
+ 
+### 🏗 Estrutura do Repositório
+Abaixo, a organização deste repositório para facilitar a navegação:
