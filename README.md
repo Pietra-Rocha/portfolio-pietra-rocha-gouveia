@@ -50,26 +50,18 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
 | Projeto | Descrição | Link |
 | :--- | :---: | :--- | 
 | Artefato 01 | Apresentação do Projeto sobre os Melhores comercios do Brasil | :---: |
-| :--- | :---: | :--- | 
 | Artefato 02 | :--- | :---: |
-| :--- | :---: | :--- | 
 | Artefato 04 | :--- | :---: |
-| :--- | :---: | :--- | 
 | Artefato 05 | :--- | :---: |
-| :--- | :---: | :--- | 
 | Consolidação Minimundo | Consolidação sobre o projeto de um minimundo com banco de dados | :---: |
-| :--- | :---: | :--- | 
 | Diagrama Minimundo | Criação de um diagrama focado na explicação do minimundo | :---: |
-| :--- | :---: | :--- | 
 | Estudo de Caso | :--- | :---: |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :---: | :--- | 
 | Corrida do Prompt | :--- | :---: |
-| :--- | :---: | :--- | 
 | Laboratorio de Classificação Visual | :--- | :---: |
-| :--- | :---: | :--- | 
 | Batalhas de Modelos de Engenharia e Prompt | :--- | :---: |
 
  
