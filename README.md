@@ -48,13 +48,20 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
  
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| Artefato 01 | Apresentação do Projeto sobre os Melhores comercios do Brasil | :---: |
+| Artefato 02 | :--- | :---: |
+| Artefato 04 | :--- | :---: |
+| Artefato 05 | :--- | :---: |
+| Consolidação Minimundo | Consolidação sobre o projeto de um minimundo com banco de dados | :---: |
+| Diagrama Minimundo | Criação de um diagrama focado na explicação do minimundo | :---: |
+| Estudo de Caso | :--- | :---: |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| Corrida do Prompt | :--- | :---: |
+| Laboratorio de Classificação Visual | :--- | :---: |
+| Batalhas de Modelos de Engenharia e Prompt | :--- | :---: |
+
  
 ---
  
