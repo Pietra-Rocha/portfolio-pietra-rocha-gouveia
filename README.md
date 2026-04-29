@@ -49,20 +49,20 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :---: | :--- | 
-| Artefato 01 | Apresentação do Projeto sobre os Melhores comercios do Brasil | :---: |
-| Artefato 02 | :--- | :---: |
-| Artefato 04 | :--- | :---: |
-| Artefato 05 | :--- | :---: |
-| Consolidação Minimundo | Consolidação sobre o projeto de um minimundo com banco de dados | :---: |
-| Diagrama Minimundo | Criação de um diagrama focado na explicação do minimundo | :---: |
-| Estudo de Caso | :--- | :---: |
+| Artefato 01 | Apresentação do Projeto sobre os Melhores comercios do Brasil | [:---:](https://github.com/Pietra-Rocha/Portfolio_Pietra_Rocha/tree/main/MBD_Artefato_01_MelhoresComercios) |
+| Artefato 02 | Dados sobre Minimundo: Melhores Comércios do Brasil | [:---:](https://github.com/Pietra-Rocha/Portfolio_Pietra_Rocha/tree/main/MBD_Artefato_02) |
+| Artefato 04 | Sistema de avaliação e cadastro dos melhores comércios do Brasil | [:---:](https://github.com/Pietra-Rocha/Portfolio_Pietra_Rocha/tree/main/MBD_Artefato_04) |
+| Artefato 05 | Part.2 Sistema de avaliação e cadastro dos melhores comércios do Brasil | [:---:](https://github.com/Pietra-Rocha/Portfolio_Pietra_Rocha/tree/main/MBD_Artefato_05) |
+| Consolidação Minimundo | Consolidação sobre o projeto de um minimundo com banco de dados | [:---:](https://github.com/Pietra-Rocha/Portfolio_Pietra_Rocha/tree/main/MBD_Consolida%C3%A7%C3%A3o_Minimundo) |
+| Diagrama Minimundo | Criação de um diagrama focado na explicação do minimundo | [:---:](https://github.com/Pietra-Rocha/Portfolio_Pietra_Rocha/tree/main/MBD_Diagrama_Minumundo) |
+| Estudo de Caso | O desafio da "Eventos de Gala S.A | [:---:](https://github.com/Pietra-Rocha/Portfolio_Pietra_Rocha/tree/main/MBD_Estudo_De_Caso) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :---: | :--- | 
-| Corrida do Prompt | :--- | :---: |
-| Laboratorio de Classificação Visual | :--- | :---: |
-| Batalhas de Modelos de Engenharia e Prompt | :--- | :---: |
+| Corrida do Prompt | Dominar a técnica de comunicação com modelos de linguagem (LLMs) para obter resultados de alta precisão no menor tempo possível. | [:---:](https://github.com/Pietra-Rocha/Portfolio_Pietra_Rocha/tree/main/SM1_Corrida_Do_Prompt) |
+| Laboratorio de Classificação Visual | Utilizar o navegador para acessar o Teachable Machine e realizar o treinamento de um modelo de imagem simples. | [:---:](https://github.com/Pietra-Rocha/Portfolio_Pietra_Rocha/tree/main/SM2_Laboratorio_Classifica%C3%A7%C3%A3o_Visual) |
+| Batalhas de Modelos de Engenharia e Prompt | Avaliar a precisão técnica e a conformidade de diferentes LLMs. | [:---:](https://github.com/Pietra-Rocha/Portfolio_Pietra_Rocha/tree/main/SM3_Batalhas_Modelos_Engenharia_Prompt) |
 
  
 ---
