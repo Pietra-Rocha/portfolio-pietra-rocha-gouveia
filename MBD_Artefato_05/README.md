@@ -36,8 +36,8 @@ Após a normalização:
 - Relações ajustadas
 - Redução de inconsistências
 
-## 🎯 Conclusão
+## Conclusão
 O banco de dados está preparado para implementação, garantindo integridade e eficiência.
 
-## 📄 Documento
+## Documento
 Este artefato comprova a qualidade do modelo lógico através das formas normais.
