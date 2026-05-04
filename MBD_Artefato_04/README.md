@@ -1,15 +1,15 @@
-# 🗄 Artefato 04 – Modelagem de Banco de Dados (DER)
+# Artefato 04 – Modelagem de Banco de Dados (DER)
 
-## 🧠 Objetivo
+## Objetivo
 Este artefato apresenta o modelo lógico do banco de dados do sistema de avaliação de comércios.
 
-## 📌 Descrição do Sistema
+## Descrição do Sistema
 O sistema permite:
 - Cadastro de comércios
 - Avaliações de clientes
 - Geração de rankings
 
-## 🧱 Entidades Principais
+## Entidades Principais
 - Comércio
 - Categoria
 - Usuário
@@ -21,7 +21,7 @@ O sistema permite:
 - Ranking
 - Relatório
 
-## 🔗 Relacionamentos
+## Relacionamentos
 - Usuário → Avaliação (1:N)
 - Comércio → Avaliação (1:N)
 - Avaliação → Comentário (1:N)
@@ -30,11 +30,11 @@ O sistema permite:
 - Comércio ↔ Ranking (N:M)
 - Comerciante → Comércio (1:N)
 
-## ⚠️ Desafios
+## Desafios
 - Definição do relacionamento entre ranking, comércio e categoria
 
-## ✅ Resultado
+## Resultado
 O DER representa de forma estruturada o funcionamento do sistema e serve como base para implementação do banco de dados.
 
-## 📄 Documento
+## Documento
 Este artefato contém o diagrama entidade-relacionamento e detalhamento das entidades.
