@@ -1,38 +1,38 @@
-# 📌 Artefato 01 – Descrição do Minimundo
+# Artefato 01 – Descrição do Minimundo
 
-## 🧠 Sobre o Projeto
+## Sobre o Projeto
 Este artefato apresenta a definição do minimundo do sistema **Sistema de Avaliação e Cadastro dos Melhores Comércios do Brasil**.
 
 O objetivo do sistema é permitir o cadastro, avaliação e ranqueamento de comércios em todo o país, oferecendo uma base confiável para consulta de usuários.
 
-## 🎯 Objetivos
+## Objetivos
 - Cadastrar comércios por região
 - Permitir avaliações e comentários de clientes
 - Classificar comércios por notas
 - Gerar rankings por cidade, estado e categoria
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 ✔ Cadastro de comércios  
 ✔ Registro de avaliações  
 ✔ Organização por categorias  
 ✔ Geração de rankings  
 
-## ❌ Fora do Escopo
+## Fora do Escopo
 - Processamento de pagamentos  
 - Integração com e-commerce/delivery  
 - Gestão de estoque  
 
-## 👥 Atores do Sistema
+## Atores do Sistema
 - Cliente
 - Administrador
 - Comerciante
 
-## 🔄 Processos Principais
+## Processos Principais
 - Cadastro de comércio  
 - Avaliação de comércio  
 - Geração de ranking  
 
-## 🗂 Entidades Iniciais
+## Entidades Iniciais
 - Comércio  
 - Cliente  
 - Administrador  
@@ -40,5 +40,5 @@ O objetivo do sistema é permitir o cadastro, avaliação e ranqueamento de com�
 - Avaliação  
 - Ranking  
 
-## 📄 Documento
+## Documento
 Este README resume o conteúdo do Artefato 01, que descreve a base conceitual do sistema.
