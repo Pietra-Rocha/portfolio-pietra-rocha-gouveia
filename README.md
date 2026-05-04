@@ -69,3 +69,58 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
  
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
+Portfolio_Pietra_Rocha/
+│
+├── README.md  ← principal
+│
+├── MBD_Artefato_01_MelhoresComercios/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── MBD_Artefato_02/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── MBD_Artefato_04/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── MBD_Artefato_05/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── MBD_Consolidação_Minimundo/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── MBD_Diagrama_Minimundo/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── MBD_Estudo_De_Caso/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── SM1_Corrida_Do_Prompt/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── SM2_Laboratorio_Classificação_Visual/
+│   ├── README.md   ← desse projeto
+│   └── arquivos...
+│
+├── SM3_Batalhas_Modelos_Engenharia_Prompt/
+│   ├── README.md    ← desse projeto
+│   └── arquivos...
+│
+├── SM4_Engenharia_Reserva/
+│   ├── README.md    ← desse projeto
+│   └── arquivos...
+│
+├── SM5_Projeto_AI_Studio/
+│   ├── README.md   ← desse projeto
+│   └── arquivos...
+│
+
+
+
