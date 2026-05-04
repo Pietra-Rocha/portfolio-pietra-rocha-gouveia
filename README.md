@@ -67,8 +67,11 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
  
 ---
  
-### 🏗 Estrutura do Repositório
+## 🏗 Estrutura do Repositório
+
 Abaixo, a organização deste repositório para facilitar a navegação:
+
+```
 Portfolio_Pietra_Rocha/
 │
 ├── README.md  ← principal
@@ -106,21 +109,18 @@ Portfolio_Pietra_Rocha/
 │   └── arquivos...
 │
 ├── SM2_Laboratorio_Classificação_Visual/
-│   ├── README.md   ← desse projeto
+│   ├── README.md  ← desse projeto
 │   └── arquivos...
 │
 ├── SM3_Batalhas_Modelos_Engenharia_Prompt/
-│   ├── README.md    ← desse projeto
+│   ├── README.md  ← desse projeto
 │   └── arquivos...
 │
 ├── SM4_Engenharia_Reserva/
-│   ├── README.md    ← desse projeto
+│   ├── README.md  ← desse projeto
 │   └── arquivos...
 │
 ├── SM5_Projeto_AI_Studio/
-│   ├── README.md   ← desse projeto
+│   ├── README.md  ← desse projeto
 │   └── arquivos...
-│
-
-
-
+```
