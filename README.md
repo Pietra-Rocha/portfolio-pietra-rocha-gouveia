@@ -65,6 +65,7 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
 | Batalhas de Modelos de Engenharia e Prompt | Avaliar a precisão técnica e a conformidade de diferentes LLMs. | [:Link do Projeto:](https://github.com/Pietra-Rocha/Portfolio_Pietra_Rocha/tree/main/SM3_Batalhas_Modelos_Engenharia_Prompt) |
 | Engenharia Reversa | Projeto de recriação de aplicação web com uso de Inteligência Artificial, baseado na análise da interface e geração automatizada de código sem acesso ao código-fonte original. | [:Link do Projeto:](https://github.com/Pietra-Rocha/portfolio-pietra-rocha-gouveia/tree/main/SM4_Engenharia_Reserva) |
 | Projeto AI Studio | Desenvolvimento prático de um website responsivo e moderno, concebido inteiramente através de metodologias avançadas de Engenharia de Prompt aplicadas no Google AI Studio. | [:Link do Projeto:](https://github.com/Pietra-Rocha/portfolio-pietra-rocha-gouveia/tree/main/SM5_Projeto_AI_Studio) |
+| Desenvolvimento App Videoconferência Manus AI Jitsi | Projeto de Criação de um App interativo com acesso a sala virtual, estruturado pelo Manus | [:Link do Projeto:](https://github.com/Pietra-Rocha/portfolio-pietra-rocha-gouveia/tree/main/SM9_Desenvolvimento_App_Videoconfer%C3%AAncia_Manus_AI_Jitsi) |
 
  
 ---
