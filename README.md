@@ -67,7 +67,7 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
 | Projeto AI Studio | Desenvolvimento prático de um website responsivo e moderno, concebido inteiramente através de metodologias avançadas de Engenharia de Prompt aplicadas no Google AI Studio. | [:Link do Projeto:](https://github.com/Pietra-Rocha/portfolio-pietra-rocha-gouveia/tree/main/SM5_Projeto_AI_Studio) |
 | Desenvolvimento App Videoconferência Manus AI Jitsi | Projeto de Criação de um App interativo com acesso a sala virtual, estruturado pelo Manus | [:Link do Projeto:](https://github.com/Pietra-Rocha/portfolio-pietra-rocha-gouveia/tree/main/SM9_Desenvolvimento_App_Videoconfer%C3%AAncia_Manus_AI_Jitsi) |
 | Engenharia Software IA Bubble.io | Desenvolver uma aplicação online web de gestão | [:Link do Projeto:](https://github.com/Pietra-Rocha/portfolio-pietra-rocha-gouveia/tree/main/SM6_Engenharia_Software_IA_Bubble.io) | 
-| Composição Musical Assistida Inteligência Artificial | Desenvolver 5 musicas atraves de prompt e Suno AI | [:Link do Projeto:](https://github.com/Pietra-Rocha/portfolio-pietra-rocha-gouveia/tree/main/SM6_Engenharia_Software_IA_Bubble.io) | 
+| Composição Musical Assistida Inteligência Artificial | Desenvolver 5 musicas atraves de prompt e Suno AI | [:Link do Projeto:](https://github.com/Pietra-Rocha/portfolio-pietra-rocha-gouveia/tree/main/SM8%20_Composi%C3%A7%C3%A3o_Musical_Assistida_Intelig%C3%AAncia_Artificial) | 
 
  
 ---
