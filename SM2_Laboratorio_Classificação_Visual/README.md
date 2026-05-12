@@ -1,4 +1,4 @@
-# Laboratório de Classificação Visual - Teachable Machine
+# SM2 - Laboratório de Classificação Visual
 
 ## Descrição
 Projeto acadêmico utilizando o Teachable Machine para criar um modelo de visão computacional capaz de distinguir pessoas com e sem boné através da webcam.
