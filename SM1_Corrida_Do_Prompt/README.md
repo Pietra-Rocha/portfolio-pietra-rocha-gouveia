@@ -1,4 +1,4 @@
-# Engenharia de Prompt: Experimentos Criativos
+# SM1 - A Corrida do Prompt
 
 ## Descrição
 Este projeto documenta testes de engenharia de prompt realizados para a geração de imagens (estilo barroco) e redação formal. 
