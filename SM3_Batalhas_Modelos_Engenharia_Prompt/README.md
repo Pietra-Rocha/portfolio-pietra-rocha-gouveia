@@ -1,4 +1,4 @@
-# Batalha de Modelos: Engenharia de Prompt (XML)
+# SM3 - Batalha de Modelos & Engenharia de Prompt(XML)
 
 ## Descrição
 Relatório de testes comparativos de engenharia de prompt estruturado em XML, avaliando a capacidade de diferentes 
