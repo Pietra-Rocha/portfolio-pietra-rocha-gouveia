@@ -67,6 +67,7 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
 | Projeto AI Studio | Desenvolvimento prático de um website responsivo e moderno, concebido inteiramente através de metodologias avançadas de Engenharia de Prompt aplicadas no Google AI Studio. | [:Link do Projeto:](https://github.com/Pietra-Rocha/portfolio-pietra-rocha-gouveia/tree/main/SM5_Projeto_AI_Studio) |
 | Desenvolvimento App Videoconferência Manus AI Jitsi | Projeto de Criação de um App interativo com acesso a sala virtual, estruturado pelo Manus | [:Link do Projeto:](https://github.com/Pietra-Rocha/portfolio-pietra-rocha-gouveia/tree/main/SM9_Desenvolvimento_App_Videoconfer%C3%AAncia_Manus_AI_Jitsi) |
 | Engenharia Software IA Bubble.io | Desenvolver uma aplicação online web de gestão | [:Link do Projeto:](https://github.com/Pietra-Rocha/portfolio-pietra-rocha-gouveia/tree/main/SM6_Engenharia_Software_IA_Bubble.io) | 
+| Composição Musical Assistida Inteligência Artificial | Desenvolver 5 musicas atraves de prompt e Suno AI | [:Link do Projeto:](https://github.com/Pietra-Rocha/portfolio-pietra-rocha-gouveia/tree/main/SM6_Engenharia_Software_IA_Bubble.io) | 
 
  
 ---
@@ -125,6 +126,18 @@ Portfolio_Pietra_Rocha/
 │   └── arquivos...
 │
 ├── SM5_Projeto_AI_Studio/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── SM6_Engenharia_Software_IA_Bubble.io/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── SM7_Desenvolvimento_App_Videoconferência_Manus_AI_Jitsi/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── SM8_Composição_Musical_Assistida_Inteligência_Artificial/
 │   ├── README.md  ← desse projeto
 │   └── arquivos...
 ```
