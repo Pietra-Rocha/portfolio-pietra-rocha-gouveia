@@ -1,10 +1,10 @@
-# TechAssist Remote
+# SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi
 
 **Suporte Técnico Remoto com Anotação em Tela**
 
 Um aplicativo mobile moderno para prestação de suporte técnico remoto através de videoconferência com ferramentas visuais integradas. O TechAssist Remote permite que técnicos guiem usuários leigos de forma intuitiva, utilizando desenho livre, destaque de áreas e indicadores de toque durante chamadas de vídeo.
 
-## 📋 Índice
+## Índice
 
 - [Visão Geral](#visão-geral)
 - [Problema Resolvido](#problema-resolvido)
@@ -21,7 +21,7 @@ Um aplicativo mobile moderno para prestação de suporte técnico remoto atravé
 - [Contribuindo](#contribuindo)
 - [Licença](#licença)
 
-## 🎯 Visão Geral
+## Visão Geral
 
 O TechAssist Remote é uma solução completa para suporte técnico remoto que combina videoconferência em tempo real com ferramentas de anotação visual. Diferentemente de soluções tradicionais que dependem apenas de comunicação verbal, este aplicativo permite que o técnico desenhe, destaque e aponte elementos na tela durante a chamada, tornando a comunicação mais clara e eficaz.
 
@@ -32,7 +32,7 @@ O aplicativo foi desenvolvido pensando em dois tipos de usuários:
 - **Técnicos de Suporte**: Profissionais que precisam guiar usuários leigos através de procedimentos técnicos
 - **Usuários Finais**: Pessoas com pouca experiência técnica que recebem suporte remoto
 
-## 🔍 Problema Resolvido
+## Problema Resolvido
 
 ### Desafio Original
 
@@ -52,7 +52,7 @@ O TechAssist Remote resolve esses problemas fornecendo:
 3. **Interface Intuitiva**: Design simples e acessível para usuários leigos
 4. **Comunicação Visual**: Reduz ambiguidades e acelera o processo de suporte
 
-## 💡 Proposta de Valor
+## Proposta de Valor
 
 | Aspecto | Benefício |
 |--------|----------|
@@ -62,7 +62,7 @@ O TechAssist Remote resolve esses problemas fornecendo:
 | **Escalabilidade** | Técnicos podem atender mais usuários com menos tempo por sessão |
 | **Custo** | Baseado em tecnologias open-source (Jitsi Meet, Expo, React Native) |
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ### Stack Principal
 
@@ -90,7 +90,7 @@ O TechAssist Remote resolve esses problemas fornecendo:
 }
 ```
 
-## ✨ Funcionalidades Principais
+## Funcionalidades Principais
 
 ### 1. Tela Inicial (Home Screen)
 
@@ -117,12 +117,12 @@ Durante a chamada, o usuário tem acesso a:
 
 Ferramentas visuais para guiar o usuário:
 
-- **🖌️ Pincel**: Desenho livre com traços contínuos
-- **⭕ Círculo**: Destaque de áreas circulares
-- **◻️ Retângulo**: Destaque de áreas retangulares
-- **👆 Ponteiro**: Indicador de toque para apontar elementos
-- **↶ Desfazer**: Reverte a última ação de desenho
-- **🗑️ Limpar**: Remove todas as anotações
+- ** Pincel**: Desenho livre com traços contínuos
+- ** Círculo**: Destaque de áreas circulares
+- ** Retângulo**: Destaque de áreas retangulares
+- ** Ponteiro**: Indicador de toque para apontar elementos
+- ** Desfazer**: Reverte a última ação de desenho
+- ** Limpar**: Remove todas as anotações
 
 ### 4. Controles de Chamada
 
@@ -131,7 +131,7 @@ Ferramentas visuais para guiar o usuário:
 - Compartilhamento de tela (através do Jitsi Meet)
 - Sair da chamada com confirmação
 
-## 🏗 Arquitetura do Projeto
+##  Arquitetura do Projeto
 
 ### Estrutura de Pastas
 
@@ -201,7 +201,7 @@ O projeto segue padrões de arquitetura limpa:
 - Tokens de cor centralizados em `theme.config.js`
 - Suporte automático para modo claro/escuro
 
-## 📦 Instalação
+##  Instalação
 
 ### Pré-requisitos
 
@@ -256,7 +256,7 @@ pnpm web
 
 Após iniciar o servidor de desenvolvimento, um QR code será exibido. Use o aplicativo **Expo Go** para escanear e abrir o app no seu dispositivo.
 
-## 🚀 Como Usar
+##  Como Usar
 
 ### Fluxo Básico de Uso
 
@@ -292,7 +292,7 @@ Após iniciar o servidor de desenvolvimento, um QR code será exibido. Use o apl
 | **Desfazer** | Toque no botão ↶ | Reverter última anotação |
 | **Limpar** | Toque no botão 🗑️ | Remover todas as anotações |
 
-## 🎨 Preview das Telas
+##  Preview das Telas
 
 ### Tela Inicial
 
@@ -312,7 +312,7 @@ Durante a chamada, o usuário vê o vídeo do técnico e tem acesso aos controle
 
 A camada de anotação permite desenho livre e destaque de áreas com ferramentas intuitivas. Todas as anotações aparecem em tempo real.
 
-## 📱 Geração de QR Code
+##  Geração de QR Code
 
 Para gerar um QR code para instalação rápida:
 
@@ -329,7 +329,7 @@ Este comando gera um arquivo `qr-code.png` na raiz do projeto. Compartilhe este 
 3. Use o Expo Go para escanear
 4. O app abrirá automaticamente
 
-## 💻 Desenvolvimento
+##  Desenvolvimento
 
 ### Estrutura de Desenvolvimento
 
@@ -405,7 +405,7 @@ export default function SettingsScreen() {
 2. Edite `tailwind.config.js` para espaçamento/tipografia
 3. Atualize `constants/theme.ts` se adicionar novos tokens
 
-## 🔄 Fluxo de Desenvolvimento
+##  Fluxo de Desenvolvimento
 
 ### Workflow Recomendado
 
@@ -428,7 +428,7 @@ Use o padrão de commits semânticos:
 - `test:` Testes
 - `chore:` Tarefas de manutenção
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Problema: App não inicia
 
@@ -464,7 +464,7 @@ pnpm check
 # Corrija os erros reportados
 ```
 
-## 📚 Recursos Adicionais
+##  Recursos Adicionais
 
 - [Documentação Expo](https://docs.expo.dev/)
 - [React Native Docs](https://reactnative.dev/)
@@ -472,7 +472,7 @@ pnpm check
 - [NativeWind](https://www.nativewind.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
-## 🤝 Contribuindo
+##  Contribuindo
 
 Contribuições são bem-vindas! Para contribuir:
 
@@ -482,27 +482,21 @@ Contribuições são bem-vindas! Para contribuir:
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-## 📄 Licença
+##  Licença
 
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para detalhes.
 
-## 👥 Autores
+##  Autores
 
 - **Manus AI** - Desenvolvimento inicial e arquitetura
 
-## 🙏 Agradecimentos
+##  Agradecimentos
 
 - Jitsi Meet pela excelente plataforma de videoconferência
 - Expo pela infraestrutura de desenvolvimento
 - React Native pela framework mobile
 - Comunidade open-source
 
-## 📞 Suporte
 
-Para suporte, abra uma issue no repositório ou entre em contato através de [seu-email@exemplo.com].
 
----
 
-**Desenvolvido com ❤️ usando Expo e React Native**
-
-*Última atualização: Maio de 2026*
