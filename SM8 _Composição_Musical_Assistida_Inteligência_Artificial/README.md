@@ -30,7 +30,7 @@ O assistente utilizado como apoio criativo para estruturação das músicas e pr
 | 05 | Quando o Sol Voltar | Pop acústico emocional / MPB | [Arquivo MP3](./audio/musica5-quando-o-sol-voltar.mp3) |
  
 ## 📄 Processo de Criação
-1. **Pesquisa Musical:** Análise das características instrumentais e líricas presentes no estilo musical da dupla Anavitória.
+1. **Curadoria:** Análise das características instrumentais e líricas presentes no estilo musical da dupla Anavitória.
  
 2. **Prompt Engineering:** Desenvolvimento de prompts detalhados contendo informações sobre:
    - Instrumentação
@@ -40,40 +40,12 @@ O assistente utilizado como apoio criativo para estruturação das músicas e pr
    - Estrutura harmônica
    - Estética sonora
  
-3. **Geração das Letras:** Estruturação das músicas utilizando organização padrão:
-   - [Verse]
-   - [Pre-Chorus]
-   - [Chorus]
-   - [Bridge]
-   - [Final Chorus]
- 
-4. **Produção Musical:** Conversão dos prompts e letras em áudio utilizando o Suno AI com ajustes de:
+3. **Produção:** Conversão dos prompts e letras em áudio utilizando o Suno AI com ajustes de:
    - Vocais femininos
    - Acoustic
    - MPB
    - Indie Folk
    - Mood intimista/emocional
  
-## 💡 Técnicas Utilizadas nos Prompts
-Os prompts foram desenvolvidos utilizando técnicas de Prompt Engineering para direcionar a IA generativa a reproduzir características específicas do gênero folk-pop brasileiro contemporâneo, inspiradas na estética musical da dupla Anavitória.
- 
-Foram utilizados parâmetros relacionados à:
- 
-- Instrumentação acústica
-- BPM aproximado
-- Atmosfera emocional
-- Estrutura melódica
-- Harmonia vocal
-- Produção orgânica
-- Ambientação cinematográfica
-- Elementos de MPB moderna
- 
-## 📁 Estrutura do Projeto
- 
-```bash
-SM8 _Composição_Musical_Assistida_Inteligência_Artificial/
-│   ├── musica1-cafe-depois-da-chuva.mp3
-│   ├── musica2-janela-do-apartamento.mp3
-│   ├── musica3-te-levo-comigo.mp3
-│   ├── musica4-luzes-da-madrugada.mp3
-│   └── musica5-quando-o-sol-voltar.mp3
+---
+Desenvolvido por [Pietra Rocha](https://github.com/Pietra-Rocha)
