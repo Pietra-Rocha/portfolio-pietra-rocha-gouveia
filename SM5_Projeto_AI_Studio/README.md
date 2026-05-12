@@ -1,4 +1,4 @@
-# Projeto Web: Desenvolvimento Assistido por IA
+# SM5 - Do Clone ao Produto Mínimo Viável (MVP+)
 
 ## Descrição
 Desenvolvimento prático de um website moderno e responsivo utilizando metodologias avançadas de Engenharia de Prompt no Google AI Studio.
