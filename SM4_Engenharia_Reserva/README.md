@@ -1,4 +1,4 @@
-# Relatório de Engenharia Reversa com IA
+# SM4 - Engenharia Reversa
 
 ## Descrição
 Projeto focado na utilização de Inteligência Artificial para a recriação de aplicações web através da observação da interface externa (front-end), sem acesso ao código-fonte original.
